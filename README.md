@@ -1,6 +1,6 @@
 # CSI4106-Computer-Networks
-Yonsei univ. Fall 2020 CSI4106 projects
-
+Yonsei univ. 2020 Fall CSI4106 projects
+(연세대학교 컴퓨터네트워크 프로젝트 저장소)
 
 |No | Project | Language | OS |
 |---|---------|----------|----|
